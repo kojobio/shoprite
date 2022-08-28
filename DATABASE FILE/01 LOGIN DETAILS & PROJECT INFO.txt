@@ -2,7 +2,7 @@
 
 **Database Name: inventorymgcsharp**
 
-**Developed by Sudesh Fernandez**
+**Developed by Bio Norh Abigi 10813361**
 
 
 **Admin Login Details**
