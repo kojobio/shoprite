@@ -1,6 +1,6 @@
 
 
-**Database Name: InventorySystem**
+**Database Name: inventorymgcsharp**
 
 **Developed by Bio Norh Abigi 10813361**
 
